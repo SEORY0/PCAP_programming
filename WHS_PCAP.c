@@ -38,6 +38,7 @@ struct tcpHeader {
     u_short tcpUrgent;
 };
 
+/* 패킷 분석 및 출력 함수 */
 void packetCapture(u_char *args, const struct pcap_pkthdr *header, const u_char *packet) {
     if (header->len < sizeof(struct ethHeader)) return;
 
