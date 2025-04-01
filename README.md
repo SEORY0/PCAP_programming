@@ -12,4 +12,4 @@ C, C++ 기반 **PCAP API**를 활용하여 **PACKET의 정보를 출력**하는 
 - **TCP Header**: Source Port / Destination Port
 - **PACKET Message** (최대 16바이트 출력)
 <br>
-본 프로그램은 이더넷(`eth0`) 인터페이스에서 실시간으로 패킷을 캡처하고, 캡처된 패킷에서 이더넷, IP 및 TCP 헤더를 분석하여 MAC 주소, IP 주소, 포트 번호와 함께 Message도 출력하는 코드이다.
+본 프로그램은 이더넷(eth0) 인터페이스에서 실시간으로 패킷을 캡처하고, 캡처된 패킷에서 이더넷, IP 및 TCP 헤더를 분석하여 MAC 주소, IP 주소, 포트 번호와 함께 Message도 출력하는 코드이다.
