@@ -1,6 +1,6 @@
-# WHS 3기 네트워크 보안 과제 - PCAP_programming
+# PCAP_programming
 
-작성자 : 화이트햇스쿨 3기 8반 류석준
+작성자 : 류석준
 <br>
 작성일 : 2025.04.01.
 <br>
