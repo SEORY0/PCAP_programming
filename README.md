@@ -1,8 +1,5 @@
 # PCAP_programming
 
-작성자 : 류석준
-<br>
-작성일 : 2025.04.01.
 <br>
 <br>
 C, C++ 기반 **PCAP API**를 활용하여 **PACKET의 정보를 출력**하는 프로그램을 작성했다. 출력되는 주요 PACKET 정보는 다음과 같다.
