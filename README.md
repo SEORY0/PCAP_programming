@@ -1,7 +1,6 @@
 # PCAP_programming
 
 <br>
-<br>
 C, C++ 기반 **PCAP API**를 활용하여 **PACKET의 정보를 출력**하는 프로그램을 작성했다. 출력되는 주요 PACKET 정보는 다음과 같다.
 <br>
 - **Ethernet Header**: Source MAC / Destination MAC
